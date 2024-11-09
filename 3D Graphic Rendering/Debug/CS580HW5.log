@@ -1,0 +1,39 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  tex_fun.cpp
+D:\3D-Rendering\HW6\HW5\tex_fun.cpp(41,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+D:\3D-Rendering\HW6\HW5\tex_fun.cpp(42,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+D:\3D-Rendering\HW6\HW5\tex_fun.cpp(43,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+D:\3D-Rendering\HW6\HW5\tex_fun.cpp(58,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+D:\3D-Rendering\HW6\HW5\tex_fun.cpp(58,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+D:\3D-Rendering\HW6\HW5\tex_fun.cpp(58,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+D:\3D-Rendering\HW6\HW5\tex_fun.cpp(59,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+D:\3D-Rendering\HW6\HW5\tex_fun.cpp(59,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+D:\3D-Rendering\HW6\HW5\tex_fun.cpp(59,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+D:\3D-Rendering\HW6\HW5\tex_fun.cpp(27,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/tex_fun.cpp')
+  
+D:\3D-Rendering\HW6\HW5\tex_fun.cpp(32,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/tex_fun.cpp')
+  
+D:\3D-Rendering\HW6\HW5\tex_fun.cpp(23,14): warning C4101: 'j': unreferenced local variable
+  (compiling source file '/tex_fun.cpp')
+  
+  CS580HW5.vcxproj -> D:\3D-Rendering\HW6\HW5\Debug\CS580HW5.exe
